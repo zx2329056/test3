@@ -1,0 +1,66 @@
+body{
+	margin: 0 auto;
+}
+div{
+	box-sizing: border-box;
+}
+.div1{
+	height: 100%;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	min-width: 600px;
+	overflow: auto;
+}
+.div2{
+	float: left;
+	width: 200px;
+	height: 100%;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.div2 img{
+	width: 80px;
+	height: 80px;
+	float: left;
+	border: 1px solid #999;
+}
+.div2 h1{
+	float: right;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	margin-left: 20px;
+	margin: 0;
+}
+.div4{
+	margin-left: 220px;
+	margin-right: 140px;
+	padding: 20px;
+	height: 100%;
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.div3{
+	float: right;
+	width: 120px;
+	height: 100%;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.div3 img{
+	width: 80px;
+	height: 80px;
+	float: right;	
+}
+.img2{
+	margin-top: 20px;
+}
+.img3{
+	margin-top: 20px;
+}
+.img4{
+	margin-top: 20px;
+}
